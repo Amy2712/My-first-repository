@@ -1,6 +1,5 @@
-<<<<<<< HEAD
+
 Hey there!!!
 My name is AMY!!!
 push
-=======
->>>>>>> parent of daf1180 (new)
+
